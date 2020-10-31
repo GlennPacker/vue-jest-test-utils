@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Data - setting component data props 1`] = `
+<div class="container">
+  <h1>Hello </h1>
+  <div>bye </div>
+</div>
+`;
